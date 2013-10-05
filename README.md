@@ -15,11 +15,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 | Name | About Me // Affiliated Packages // What I Like To Work On | Website | Email | ![StackOverflow](http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png) | ![Github](https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png) | ![R Bloggers](https://scontent-b.xx.fbcdn.net/hphotos-prn2/1157664_10151640961054891_2062775343_n.png) | ![Twitter](https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png) |
 | --- |  --------- | --- | --- | :---: | :---: | :---: | :---: |
-| ~~Jeff Ryan~~ | `quantmod`
-| ~~Hadley Wickham~~ | `ggplot`, `devtools`, `bigvis`, `plyr`, `stringr` | http://had.co.nz
-| ~~Josh Ulrich~~ | My interests are computational finance, algorithmic trading, position sizing. I like to do code profiling and optimization (including moving to `C++` and/or parallel) ||||||||
+| Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| ~~J.D. Long~~ | insurance, agriculture | [cerebral mastication](http://cerebralmastication.com) ||  ![cmast](http://stackexchange.com/users/flair/17035.png) || [&mdash;](http://www.r-bloggers.com/author/jd-long/) | @cmastication|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
