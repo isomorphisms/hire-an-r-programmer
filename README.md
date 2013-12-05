@@ -20,7 +20,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
 
 
 
