@@ -13,7 +13,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 
 
-| Name | About Me // Affiliated Packages // What I Like To Work On | Website | Email | ![StackOverflow](http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png) | ![Github](https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png) | ![R Bloggers](https://scontent-b.xx.fbcdn.net/hphotos-prn2/1157664_10151640961054891_2062775343_n.png) | ![Twitter](https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png) |
+| Name | About Me // Affiliated Packages // What I Like To Work On | Website | Email | ![StackOverflow](http://files.quickmediasolutions.com/so-images/stackoverflow.png) | ![Github](https://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png) | ![R Bloggers](https://scontent-b.xx.fbcdn.net/hphotos-prn2/1157664_10151640961054891_2062775343_n.png) | ![Twitter](https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png) |
 | --- |  --------- | --- | --- | :---: | :---: | :---: | :---: |
 | Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
