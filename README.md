@@ -20,7 +20,9 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com 
+| matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
+|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
 
