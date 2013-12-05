@@ -18,6 +18,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
+|Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
