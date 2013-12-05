@@ -19,6 +19,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
+| Nicola Sturaro Sommacal | data visualization, reports, reproducible research |[Personal website (Italian only)](http://www.nicolasturaro.com) | &mdash; | &mdash; | [My page](https://github.com/nicolasturaro) | [My posts](http://www.r-bloggers.com/author/nicola-sturaro-sommacal/) | [@nicolasturaro](http://twitter.com/nicolasturaro) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
