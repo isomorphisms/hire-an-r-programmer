@@ -16,10 +16,10 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Name | About Me // Affiliated Packages // What I Like To Work On | Website | Email | ![StackOverflow](http://files.quickmediasolutions.com/so-images/stackoverflow.png) | ![Github](http://res.cloudinary.com/hrscywv4p/image/upload/v1373133229/udwr8dti3bxqnhs6knpu.png) | ![R Bloggers](https://fbexternal-a.akamaihd.net/safe_image.php?d=AQDe_OBWQLkkI3fZ&w=155&h=114&url=http%3A%2F%2Fwww.r-bloggers.com%2Fwp-content%2Fblogs.dir%2F1%2Fuploads%2Fwptouch%2Fcustom-icons%2FR_logo_04.png) | ![Twitter](https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png) |
 | --- |  --------- | --- | --- | :---: | :---: | :---: | :---: |
 | Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
-|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
-|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+| ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
+
 
 
 
