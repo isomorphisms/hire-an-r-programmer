@@ -20,7 +20,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
 | ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker) ||**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+|Quentin Thurier| data analysis, machine learning, big data||quentin.thurier@gmail.com||https://github.com/qthurier|||
 
 
 
