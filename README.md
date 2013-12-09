@@ -20,7 +20,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
 | ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker) ||**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+|Gregory R. Warnes|Skilled statistical analyst, scientific/analytic software developer, and expert in the R statistical analysis system. //  (Co-)Author of 20+ R packages: General tools: gregmisc, gtools, gdata, gmodels, gplots, namespace, SASxport, session – Statistical genetics & genomics: genetics, GeneticsBase, GeneticsDesign, GeneticsPed, GeneticsQC, fbat, ssize, qvalue - Parallel computing: fork, Rlsf - Audiology: SII - MCMC Diagnostics: mcgibbsit.|http://gregoryrwarnes.com|greg@warnes.net|- |- |-|
 
 
 
