@@ -18,10 +18,13 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
-| ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+| ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
+| ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker) ||**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+|Quentin Thurier| data analysis, machine learning, big data||quentin.thurier@gmail.com||https://github.com/qthurier|||
+
 
 
 
