@@ -20,6 +20,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
+| Richard Iannone | atmospheric science, GIS | [about.me](http://about.me/rich_i) | | | https://github.com/rich-iannone | | [@riannone](http://twitter.com/riannone) |
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 | Ahmadou Dicko |Econometrics, Spatial data analysis |  ||http://stackoverflow.com/users/592920/dickoa | https://github.com/dickoa | | [@dickoah](http://twitter.com/dickoah) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
