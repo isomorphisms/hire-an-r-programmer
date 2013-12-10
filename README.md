@@ -15,11 +15,19 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 | Name | About Me // Affiliated Packages // What I Like To Work On | Website | Email | <img src="http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png" title="StackOverflow: where programmers help each other debug" width="100"/> | <img src="http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png" title="Github: where programmers share code" width="100" /> | <img src="http://scontent-b.xx.fbcdn.net/hphotos-prn2/1157664_10151640961054891_2062775343_n.png" title="R Bloggers: where R programmers share ideas with each other" width="100" /> | <img src="https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png" title="Twitter: a worldwide chatroom" width="100" />|
 | --- |  --------- | --- | --- | :---: | :---: | :---: | :---: |
-| Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| http://stackoverflow.com/users/271616/joshua-ulrich | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
-| Romain François | R, R/C++, ... | http://blog.r-enthusiasts.com || http://stackoverflow.com/users/499163/romain-francois | https://github.com/romainfrancois | http://blog.r-enthusiasts.com | [@romain_francois](https://twitter.com/romain_francois) |
+| Joshua Ulrich | computational finance, algorithmic trading, position sizing | http://about.me/joshuaulrich|| [![profile for Joshua Ulrich at Stack Overflow, Q&A for professional and
+enthusiast
+programmers](http://stackoverflow.com/users/flair/271616.png "profile for Joshua Ulrich at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/271616/joshua-ulrich)
+ | https://github.com/joshuaulrich | http://www.r-bloggers.com/author/joshua-ulrich/ | [@joshua_ulrich](https://twitter.com/joshua_ulrich) |
+| Romain François | R, R/C++, ... | http://blog.r-enthusiasts.com || [![profile for Romain Francois at Stack Overflow, Q&A for professional
+and enthusiast
+programmers](http://stackoverflow.com/users/flair/499163.png "profile for Romain Francois at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/499163/romain-francois)
+ | https://github.com/romainfrancois | http://blog.r-enthusiasts.com | [@romain_francois](https://twitter.com/romain_francois) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
-| Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
+| Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [![profile for Tyler Rinker at Stack Overflow, Q&A for professional and
+enthusiast
+programmers](http://stackoverflow.com/users/flair/1000343.png "profile for Tyler Rinker at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
 | Richard Iannone | atmospheric science, GIS | [about.me](http://about.me/rich_i) | | | https://github.com/rich-iannone | | [@riannone](http://twitter.com/riannone) |
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 |Gregory R. Warnes|Skilled statistical analyst, scientific/analytic software developer, and expert in the R statistical analysis system. //  (Co-)Author of 20+ R packages: General tools: gregmisc, gtools, gdata, gmodels, gplots, namespace, SASxport, session – Statistical genetics & genomics: genetics, GeneticsBase, GeneticsDesign, GeneticsPed, GeneticsQC, fbat, ssize, qvalue - Parallel computing: fork, Rlsf - Audiology: SII - MCMC Diagnostics: mcgibbsit.|http://gregoryrwarnes.com|greg@warnes.net|- |- |-|
@@ -31,7 +39,11 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Quentin Thurier| data analysis, machine learning, big data||quentin.thurier@gmail.com||https://github.com/qthurier|||
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
-| András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
+| András Tajti | network science, social media | http://atajti.hu|| [![profile for atajti at Stack Overflow, Q&A for professional and
+enthusiast programmers](http://stackoverflow.com/users/flair/3027274.png
+"profile for atajti at Stack Overflow, Q&A for professional and
+enthusiast programmers")](http://stackoverflow.com/users/3027274/atajti)
+ | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
