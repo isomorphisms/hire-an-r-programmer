@@ -30,6 +30,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
 | András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
+| Nicola Sturaro Sommacal | data visualization, reports, reproducible research |[Personal website (Italian only)](http://www.nicolasturaro.com) | &mdash; | &mdash; | [My page](https://github.com/nicolasturaro) | [My posts](http://www.r-bloggers.com/author/nicola-sturaro-sommacal/) | [@nicolasturaro](http://twitter.com/nicolasturaro) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
