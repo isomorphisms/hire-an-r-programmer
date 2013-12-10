@@ -30,6 +30,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
 | András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
+| ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
