@@ -20,7 +20,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Luis Apiolaza~~ | forestry, `ASRemlR`, agriculture | http://uncronopio.org |  | | | [&mdash;](http://www.r-bloggers.com/author/luis/) | [@zentree](http://twitter.com/zentree) | 
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/) | [@isomorphisms](http://twitter.com/isomorphisms) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| Tyer Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
+| Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
