@@ -27,7 +27,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker)
 |Quentin Thurier| data analysis, machine learning, big data||quentin.thurier@gmail.com||https://github.com/qthurier|||
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
-| --- |  --------- | --- | --- | :---: | :---: | :---: | :---: |
+| ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
+| András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
