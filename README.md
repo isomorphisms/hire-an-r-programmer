@@ -22,6 +22,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Tyler Rinker | Literacy Researcher // `qdap`, `reports` // data visualization | http://trinkerrstuff.wordpress.com/ | | [StackOverflow](http://stackoverflow.com/users/1000343/tyler-rinker) | [Github](https://github.com/trinker) | [R Bloggers](http://www.r-bloggers.com/author/tylerrinker/) | [@tylerrinker](https://twitter.com/tylerrinker) |
 | Richard Iannone | atmospheric science, GIS | [about.me](http://about.me/rich_i) | | | https://github.com/rich-iannone | | [@riannone](http://twitter.com/riannone) |
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
+|Gregory R. Warnes|Skilled statistical analyst, scientific/analytic software developer, and expert in the R statistical analysis system. //  (Co-)Author of 20+ R packages: General tools: gregmisc, gtools, gdata, gmodels, gplots, namespace, SASxport, session – Statistical genetics & genomics: genetics, GeneticsBase, GeneticsDesign, GeneticsPed, GeneticsQC, fbat, ssize, qvalue - Parallel computing: fork, Rlsf - Audiology: SII - MCMC Diagnostics: mcgibbsit.|http://gregoryrwarnes.com|greg@warnes.net|- |- |-|
 | Ahmadou Dicko |Econometrics, Spatial data analysis |  ||http://stackoverflow.com/users/592920/dickoa | https://github.com/dickoa | | [@dickoah](http://twitter.com/dickoah) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
@@ -31,6 +32,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
 | András Tajti | network science, social media | http://atajti.hu|| http://stackoverflow.com/users/3027274/atajti | https://github.com/atajti | -- | [@atajti](https://twitter.com/atajti) |
 | Nicola Sturaro Sommacal | data visualization, reports, reproducible research |[Personal website (Italian only)](http://www.nicolasturaro.com) | &mdash; | &mdash; | [My page](https://github.com/nicolasturaro) | [My posts](http://www.r-bloggers.com/author/nicola-sturaro-sommacal/) | [@nicolasturaro](http://twitter.com/nicolasturaro) |
+| ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
