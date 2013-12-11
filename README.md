@@ -4,7 +4,7 @@ _Here!_
 
 We are all `R` programmers. Statisticians, coders, quants, et cetera. If you want data analysed we can help you. This is a place where you can find out how to contact us.
 
-This is just a peek at the `R` community&mdash;who's involved in what packages, what people like to work on, who constitutes the community. `R` people also hang out [here](https://twitter.com/search?q=%23Rstats), [here](http://stackoverflow.com/questions/tagged/r), and [here](http://www.google.com/search?q=stat.ethz.ch+pipermail) for example.
+This is just a peek at the `R` community&mdash;who's involved in what packages, what people like to work on, who constitutes the community. `R` people also hang out [here](https://twitter.com/search?q=%23Rstats), [here](http://stackoverflow.com/questions/tagged/r), [here](mailto:r-sig-jobs-request@r-project.org), and [here](http://www.google.com/search?q=stat.ethz.ch+pipermail) for example.
 
 
 
