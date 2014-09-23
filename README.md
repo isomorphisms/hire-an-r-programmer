@@ -36,7 +36,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
 | András Tajti | network science, social media | http://atajti.hu|| [![profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3027274.png "profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3027274/atajti) | https://github.com/atajti | — | [@atajti](https://twitter.com/atajti) |
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
-|Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation||daniel.emaasit@gmail.com||https://github.com/emaasit|
+|Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation||daniel.emaasit@gmail.com||https://github.com/emaasit|[@emaasit](http://twitter.com/emaasit) |[danielemaasit](http://danielemaasit.com/) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
