@@ -25,6 +25,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Richard Iannone | atmospheric science, GIS | [about.me](http://about.me/rich_i) | | | https://github.com/rich-iannone | | [@riannone](http://twitter.com/riannone) |
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 |Gregory R. Warnes| (Co-)Author of 20+ R packages: `gregmisc`, `gtools`, `gdata`, `gmodels`, `gplots`, `namespace`, `SASxport`, `session` – Statistical genetics & genomics: `genetics`, `GeneticsBase`, `GeneticsDesign`, `GeneticsPed`, `GeneticsQC`, `fbat`, `ssize`, `qvalue` — Parallel computing: `fork`, `Rlsf` — Audiology: `SII` — MCMC: `mcgibbsit`.|http://gregoryrwarnes.com|greg@warnes.net|- |- |-|
+| Edvinas Drevinskas | econometrics, forecasting, data analysis, `shiny`,`ggplot`|-|edvinas.dre@gmail.com|[![profile for Joshua Ulrich at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/2453235.png "profile for Pigeon at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/2453235/pigeon)|||https://twitter.com/EdwinDre|
 | Ahmadou Dicko |Econometrics, Spatial data analysis |  ||[![profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/592920.png "profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/592920/dickoa) | https://github.com/dickoa | | [@dickoah](http://twitter.com/dickoah) |
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
@@ -41,7 +42,6 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| Edvinas Drevinskas | econometrics, forecasting, data analysis, `shiny`,`ggplot`|-|edvinas.dre@gmail.com|[![profile for Joshua Ulrich at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/2453235.png "profile for Pigeon at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/2453235/pigeon)|||https://twitter.com/EdwinDre|
 
 
 
