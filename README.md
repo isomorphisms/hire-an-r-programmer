@@ -41,6 +41,8 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation|[Portfolio](http://danielemaasit.com/)|daniel.emaasit@gmail.com||https://github.com/emaasit||[@emaasit](http://twitter.com/emaasit) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
+=======
+| Anthony A. Boyles | Computational Social Scientist | http://aaboyles.com | AABoyles@gmail.com | [SO](http://stackexchange.com/users/246792/tony) | [http://github.com/AABoyles](http://github.com/AABoyles) | | [@AABoyles](http://twitter.com/aaboyles) 
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
