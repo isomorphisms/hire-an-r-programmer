@@ -1,4 +1,3 @@
-<div class="hi">
 # Where can I find an `R` programmer?
 
 _Here!_
@@ -54,6 +53,4 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 ------------
 
-<div class="hi">
 If you are an `R` developer and want your details added to this list, just fork this, submit a pull request, and I'll approve as long as [a] there are no typoes and [b] you are not lying. tweet @isomorphisms if I don't seem to be paying attention.
-</div>
