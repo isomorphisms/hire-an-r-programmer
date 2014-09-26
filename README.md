@@ -38,6 +38,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+| Ahmed Nagi | Computational Finance, Econometrics, Sound and Music computing, Music Information Retrieval, Machine learning |[Personal website](http://lalas.github.io/quantitativeThoughts/) | ahmednagi@gmail.com | &mdash; | (https://github.com/lalas/) | [My posts](http://lalas.github.io/quantitativeThoughts/) | &mdash; |
 
 
 
