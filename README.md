@@ -41,7 +41,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| Edvinas Drevinskas | econometrics, forecasting, data analysis, `shiny`,`ggplot`|-|edvinas.dre@gmail.com|[![profile for Joshua Ulrich at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/2453235.png "profile for Pigeon at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/2453235/pigeon)|||https://twitter.com/EdwinDre|
 
 
 
