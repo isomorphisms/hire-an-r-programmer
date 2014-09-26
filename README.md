@@ -39,6 +39,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation|[Portfolio](http://danielemaasit.com/)|daniel.emaasit@gmail.com||https://github.com/emaasit||[@emaasit](http://twitter.com/emaasit) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
+| Juan Manuel Truppia | Finance (derivatives, trading, scoring) and data analysis in general. Author or the `tvm` package | [Quants Argentina](http://www.quantsargentina.com/) | jmtruppia@gmail.com | [juancentro](http://stackoverflow.com/users/645080/juancentro) | [https://github.com/juancentro](https://github.com/juancentro) | NA | [@jmtruppia](https://twitter.com/jmtruppia) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
