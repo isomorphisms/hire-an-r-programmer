@@ -38,7 +38,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+|Mike Lawrence|Author of [ez](http://cran.r-project.org/web/packages/ez/index.html), expertise with [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html),  [lme4](http://cran.r-project.org/web/packages/lme4/index.html),  [mgcv](http://cran.r-project.org/web/packages/mgcv/index.html), [rstan](http://mc-stan.org)| - | mike.lwrnc@gmail.com | http://stackoverflow.com/users/174902 http://stats.stackexchange.com/users/364 | http://github.com/mike-lawrence | - | [@MikeLwrnc](http://twitter.com/mikelwrnc)
 
 
 
