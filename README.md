@@ -38,7 +38,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| Joe Thorley | Hierarchical Bayesian Modelling of Ecological Data| [http://www.poissonconsulting.ca/people/joe-thorley.html](http://www.poissonconsulting.ca/people/joe-thorley.html) |joe@poissonconsulting.ca||[https://github.com/poissonconsulting](https://github.com/poissonconsulting) || [@joe_thorley](http://twitter.com/joe_thorley)|
 
 
 
