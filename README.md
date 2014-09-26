@@ -44,6 +44,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 =======
 | Anthony A. Boyles | Computational Social Scientist | http://aaboyles.com | AABoyles@gmail.com | [SO](http://stackexchange.com/users/246792/tony) | [http://github.com/AABoyles](http://github.com/AABoyles) | | [@AABoyles](http://twitter.com/aaboyles) 
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+| Ahmed Nagi | Computational Finance, Econometrics, Sound and Music computing, Music Information Retrieval, Machine learning |[Personal website](http://lalas.github.io/quantitativeThoughts/) | ahmednagi@gmail.com | &mdash; | (https://github.com/lalas/) | [My posts](http://lalas.github.io/quantitativeThoughts/) | &mdash; |
 
 
 
