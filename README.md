@@ -44,7 +44,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 =======
 | Anthony A. Boyles | Computational Social Scientist | http://aaboyles.com | AABoyles@gmail.com | [SO](http://stackexchange.com/users/246792/tony) | [http://github.com/AABoyles](http://github.com/AABoyles) | | [@AABoyles](http://twitter.com/aaboyles) 
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+|Mike Lawrence|Author of [ez](http://cran.r-project.org/web/packages/ez/index.html), expertise with [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html),  [lme4](http://cran.r-project.org/web/packages/lme4/index.html),  [mgcv](http://cran.r-project.org/web/packages/mgcv/index.html), [rstan](http://mc-stan.org)| - | mike.lwrnc@gmail.com | [![profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites](http://stackexchange.com/users/flair/58413.png "profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/58413) | http://github.com/mike-lawrence | - | [@MikeLwrnc](http://twitter.com/mikelwrnc)
 
 
 
