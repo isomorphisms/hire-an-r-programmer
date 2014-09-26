@@ -41,12 +41,12 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation|[Portfolio](http://danielemaasit.com/)|daniel.emaasit@gmail.com||https://github.com/emaasit||[@emaasit](http://twitter.com/emaasit) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Ahmed Nagi | Computational Finance, Econometrics, Sound and Music computing, Music Information Retrieval, Machine learning |[Personal website](http://lalas.github.io/quantitativeThoughts/) | ahmednagi@gmail.com | &mdash; | (https://github.com/lalas/) | [My posts](http://lalas.github.io/quantitativeThoughts/) | &mdash; |
+| ~~Andrei Halasz~~ | statistics, data analysis, ggplot2, Shiny, data visualization| NA | halasz.andrei@gmail.com| NA | NA | NA | NA |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | Anthony A. Boyles | Computational Social Scientist | http://aaboyles.com | AABoyles@gmail.com | [SO](http://stackexchange.com/users/246792/tony) | [http://github.com/AABoyles](http://github.com/AABoyles) | | [@AABoyles](http://twitter.com/aaboyles) 
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
 |Mike Lawrence|Author of [ez](http://cran.r-project.org/web/packages/ez/index.html), expertise with [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html),  [lme4](http://cran.r-project.org/web/packages/lme4/index.html),  [mgcv](http://cran.r-project.org/web/packages/mgcv/index.html), [rstan](http://mc-stan.org)| - | mike.lwrnc@gmail.com | [![profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites](http://stackexchange.com/users/flair/58413.png "profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/58413) | http://github.com/mike-lawrence | - | [@MikeLwrnc](http://twitter.com/mikelwrnc)
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
 
 
 
