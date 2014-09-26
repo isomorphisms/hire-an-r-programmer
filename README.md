@@ -28,7 +28,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Ahmadou Dicko |Econometrics, Spatial data analysis |  ||[![profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/592920.png "profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/592920/dickoa) | https://github.com/dickoa | | [@dickoah](http://twitter.com/dickoah) |
 | ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
+| ~~isomorphismes~~ | | [isomorphismes](http://isomorphism.es/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
 | Nicola Sturaro Sommacal | data visualization, reports, reproducible research |[Personal website (Italian only)](http://www.nicolasturaro.com) | &mdash; | &mdash; | [My page](https://github.com/nicolasturaro) | [My posts](http://www.r-bloggers.com/author/nicola-sturaro-sommacal/) | [@nicolasturaro](http://twitter.com/nicolasturaro) |
 | ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker)
 | Joe Thorley | Hierarchical Bayesian Modelling of Ecological Data| [http://www.poissonconsulting.ca/people/joe-thorley.html](http://www.poissonconsulting.ca/people/joe-thorley.html) |joe@poissonconsulting.ca||[https://github.com/poissonconsulting](https://github.com/poissonconsulting) || [@joe_thorley](http://twitter.com/joe_thorley)|
@@ -53,4 +53,4 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 ------------
 
-If you are an `R` developer and want your details added to this list, just fork this, submit a pull request, and I'll approve as long as [a] there are no typoes and [b] you are not lying. tweet @isomorphisms if I don't seem to be paying attention.
+If you are an `R` developer and want your details added to this list, just fork this, submit a pull request, and I'll approve as long as [a] there are no typoes and [b] you are not lying. tweet [@isomorphisms](http://twitter.com/isomorphisms) if I don't seem to be paying attention.
