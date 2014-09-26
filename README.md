@@ -26,21 +26,21 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Noah Silverman|Finance, Machine Learning, Hierarchical Bayes|http://www.smartmediacorp.com | | | | | |
 |Gregory R. Warnes| (Co-)Author of 20+ R packages: `gregmisc`, `gtools`, `gdata`, `gmodels`, `gplots`, `namespace`, `SASxport`, `session` – Statistical genetics & genomics: `genetics`, `GeneticsBase`, `GeneticsDesign`, `GeneticsPed`, `GeneticsQC`, `fbat`, `ssize`, `qvalue` — Parallel computing: `fork`, `Rlsf` — Audiology: `SII` — MCMC: `mcgibbsit`.|http://gregoryrwarnes.com|greg@warnes.net|- |- |-|
 | Ahmadou Dicko |Econometrics, Spatial data analysis |  ||[![profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/592920.png "profile for dickoa at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/592920/dickoa) | https://github.com/dickoa | | [@dickoah](http://twitter.com/dickoah) |
+| ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | ~~isomorphismes~~ | | [isomorphismes](http://isomorphismes.tumblr.com/tagged/R) ||| | [&mdash;](http://www.r-bloggers.com/author/isomorphismes/)  | [@isomorphisms](http://twitter.com/isomorphisms) |
 | Nicola Sturaro Sommacal | data visualization, reports, reproducible research |[Personal website (Italian only)](http://www.nicolasturaro.com) | &mdash; | &mdash; | [My page](https://github.com/nicolasturaro) | [My posts](http://www.r-bloggers.com/author/nicola-sturaro-sommacal/) | [@nicolasturaro](http://twitter.com/nicolasturaro) |
 | ~~decisionstats~~ | Business Analytics, Data Mining, Outsourcing,Data Visualization, Web Analytics| [decisionstats](http://decisionstats) ||| | [&mdash;](http://www.decisionstats.com) | [@poethacker](http://twitter.com/poethacker)
+| Joe Thorley | Hierarchical Bayesian Modelling of Ecological Data| [http://www.poissonconsulting.ca/people/joe-thorley.html](http://www.poissonconsulting.ca/people/joe-thorley.html) |joe@poissonconsulting.ca||[https://github.com/poissonconsulting](https://github.com/poissonconsulting) || [@joe_thorley](http://twitter.com/joe_thorley)|
 |Quentin Thurier| data analysis, machine learning, big data||quentin.thurier@gmail.com||https://github.com/qthurier|||
-|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| ~~Matt Leonawicz~~ | statistics, Shiny apps, data visualization, parallel processing | http://statmatt.com | matt.rstat@gmail.com | | | | [@leonawicz](http://twitter.com/leonawicz) |
 | ~~wrathematics~~ | HPC, `pbdR`, forecasting, `memuse` | http://librestats.com/ ||| https://github.com/wrathematics | http://www.r-bloggers.com/author/wrathematics/ ||
+|**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | András Tajti | network science, social media | http://atajti.hu|| [![profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3027274.png "profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3027274/atajti) | https://github.com/atajti | — | [@atajti](https://twitter.com/atajti) |
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 |Daniel Emaasit| Machine Learning, Regression, Cluster Analysis, Time Series, Predictive Analytics, Data Visualisation|[Portfolio](http://danielemaasit.com/)|daniel.emaasit@gmail.com||https://github.com/emaasit||[@emaasit](http://twitter.com/emaasit) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
 | Jay Ulfelder | political scientist, political risk, predictive modeling | [Dart-Throwing Chimp](http://dartthrowingchimp.wordpress.com/) | ulfelder@gmail.com | NA | [https://github.com/ulfelder](https://github.com/ulfelder) | NA | [@dtchimp](https://twitter.com/dtchimp) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-| Joe Thorley | Hierarchical Bayesian Modelling of Ecological Data| [http://www.poissonconsulting.ca/people/joe-thorley.html](http://www.poissonconsulting.ca/people/joe-thorley.html) |joe@poissonconsulting.ca||[https://github.com/poissonconsulting](https://github.com/poissonconsulting) || [@joe_thorley](http://twitter.com/joe_thorley)|
 
 
 
