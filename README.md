@@ -37,6 +37,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | András Tajti | network science, social media | http://atajti.hu|| [![profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3027274.png "profile for atajti at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3027274/atajti) | https://github.com/atajti | — | [@atajti](https://twitter.com/atajti) |
 | ~~Corey Chivers~~ | `MHadaptive`, `rvmapp`, simulation, prediction | [bayesianbiologist](http://bayesianbiologist.com/) ||| [https://github.com/cjbayesian](https://github.com/cjbayesian) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cjbayesian](http://twitter.com/cjbayesian) |
 | ~~Carson Sievert~~ | Statistics PhD student, author of: `pitchRx` `LDAvis` `XML2R` `bbscrapeR`| [http://cpsievert.github.io/](http://cpsievert.github.io/) ||| [https://github.com/cpsievert](https://github.com/cpsievert) | [&mdash;](http://www.r-bloggers.com/author/corey-chivers/) | [@cpsievert](http://twitter.com/cpsievert) |
+| Anthony A. Boyles | Computational Social Scientist | http://aaboyles.com | AABoyles@gmail.com | [SO](http://stackexchange.com/users/246792/tony) | [http://github.com/AABoyles](http://github.com/AABoyles) | | [@AABoyles](http://twitter.com/aaboyles) 
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 
 
