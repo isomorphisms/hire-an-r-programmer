@@ -49,7 +49,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 |Mike Lawrence|Author of [ez](http://cran.r-project.org/web/packages/ez/index.html), expertise with [ggplot2](http://cran.r-project.org/web/packages/ggplot2/index.html),  [lme4](http://cran.r-project.org/web/packages/lme4/index.html),  [mgcv](http://cran.r-project.org/web/packages/mgcv/index.html), [rstan](http://mc-stan.org)|  | mike.lwrnc@gmail.com | [![profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites](http://stackexchange.com/users/flair/58413.png "profile for Mike Lawrence on Stack Exchange, a network of free, community-driven Q&A sites")](http://stackexchange.com/users/58413) | http://github.com/mike-lawrence |  | [@MikeLwrnc](http://twitter.com/mikelwrnc)
 | Juan Manuel Truppia | Finance (derivatives, trading, scoring) and data analysis in general. Author or the `tvm` package | [Quants Argentina](http://www.quantsargentina.com/) | jmtruppia@gmail.com | [juancentro](http://stackoverflow.com/users/645080/juancentro) | [https://github.com/juancentro](https://github.com/juancentro) | NA | [@jmtruppia](https://twitter.com/jmtruppia) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| Kenneth D. Graves | Quantitative Finance, Econometrics, Predictive Analytics, Modeling, Valuation, Machine Learning, Social Media, Big Data | [Personal Contact Page](http://kennethdgraves.brandyourself.com/)| ken_graves@yahoo.com | NA | [https://github.com/majystr](https://github.com/majystr) | NA | [@ken_graves](https://twitter.com/ken_graves) |
 
 
 ------------
