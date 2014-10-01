@@ -53,6 +53,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Tal Galili | Doing a PhD in statistics at Tel-Aviv University. Auther of the packages: `dendextend` and `installr` | [R statistics blog](http://www.r-statistics.com/) | Tal.Galili@gmail.com | [![profile for Tal Galili at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/256662.png "profile for Tyler Rinker at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/256662/tal-galili) | https://github.com/talgalili | [R Bloggers](http://www.r-bloggers.com/author/tal-galili/) | [@talgalili](https://twitter.com/talgalili) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
 | Kenneth D. Graves | Quantitative Finance, Econometrics, Predictive Analytics, Modeling, Valuation, Machine Learning, Social Media, Big Data | [Personal Contact Page](http://kennethdgraves.brandyourself.com/)| ken_graves@yahoo.com | NA | [https://github.com/majystr](https://github.com/majystr) | NA | [@ken_graves](https://twitter.com/ken_graves) |
+| Przemyslaw Biecek | Biostatistics, Data Visualisation, Data Engineering. Author of R packages: bgmm, eurostat, PISA2012lite, PIAAC, PBImisc, SmarterPoland, archivist | [Personal Contact Page](http://biecek.pl/)| przemyslaw.biecek@gmail.com | NA | [https://github.com/pbiecek](https://github.com/pbiecek) | [SmarterPoland](http://www.SmarterPoland.pl) | [@smarterpoland](https://twitter.com/smarterpoland) |
 
 
 ------------
