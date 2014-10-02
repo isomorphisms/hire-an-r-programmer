@@ -58,7 +58,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Shannon Callan | Quantitative Finance and Social Media Analysis | http://www.digitaltrendanalytics.com | smc@digitaltrendanalytics.com | http://stackoverflow.com/users/1736015/scallan | [smc-dta](https://github.com/smc-dta) |  |  |
 | Tony Fischetti | Machine Learning, Reproducible Research, High Performance Computing | [On The Lambda](http://www.onthelambda.com)| tony.fischetti@gmail.com |  | [tonyfischetti](https://github.com/tonyfischetti) | [R-bloggers](http://www.r-bloggers.com/author/tony-fischettigmail-com/) | [@tonyfischetti](https://twitter.com/tonyfischetti) |
 | Przemyslaw Biecek | Biostatistics, Data Visualisation, Data Engineering. Author of R packages: bgmm, eurostat, PISA2012lite, PIAAC, PBImisc, SmarterPoland, archivist | [Personal Contact Page](http://biecek.pl/)| przemyslaw.biecek@gmail.com | | [github://pbiecek](https://github.com/pbiecek) | [SmarterPoland](http://www.SmarterPoland.pl) | [@smarterpoland](https://twitter.com/smarterpoland) |
-
+| Antonio Sanchez Chinchon | Predictive Analytics, Modeling, Valuation, Machine Learning, Social Media, ggplot2, RCharts, Data Visualization, Time Series | [Personal Contact Page](http://aschinchon.wordpress.com/)| aschinchon@gmail.com | | [github](https://github.com/aschinchon) | [R Bloggers](http://www.r-bloggers.com/author/aschinchon/) | [@aschinchon](https://twitter.com/aschinchon) |
 
 ------------
 
