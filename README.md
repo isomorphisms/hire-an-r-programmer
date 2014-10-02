@@ -53,9 +53,11 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Kuber Kumar Chaurasiya | Clustering, Classification and Regression || kuberbhu@gmail.com | [outlier](http://stackoverflow.com/users/1645131/outlier) | [kuberiitb](https://github.com/kuberiitb) | | [@kuberasi](https://twitter.com/kuberasi) |
 | Tal Galili | Doing a PhD in statistics at Tel-Aviv University. Auther of the packages: `dendextend` and `installr` | [R statistics blog](http://www.r-statistics.com/) | Tal.Galili@gmail.com | [![profile for Tal Galili at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/256662.png "profile for Tyler Rinker at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/256662/tal-galili) | https://github.com/talgalili | [R Bloggers](http://www.r-bloggers.com/author/tal-galili/) | [@talgalili](https://twitter.com/talgalili) |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+<<<<<<< HEAD
 | Kenneth D. Graves | Quantitative Finance, Econometrics, Predictive Analytics, Modeling, Valuation, Machine Learning, Social Media, Big Data | [Personal Contact Page](http://kennethdgraves.brandyourself.com/)| ken_graves@yahoo.com |   | [https://github.com/majystr](https://github.com/majystr) |   | [@ken_graves](https://twitter.com/ken_graves) |
 | Brian M. Wilcox | R, Python, Java, C++, Data Visualization, Finance, Economics, Data Science, Software Engineering  | [Personal Contact Page](http://brianmwilcox.com/)|  |   | [briwilcox](https://github.com/briwilcox) |   | [@Brian_M_Wilcox](https://twitter.com/Brian_M_Wilcox) |
 | Shannon Callan | Quantitative Finance and Social Media Analysis | http://www.digitaltrendanalytics.com | smc@digitaltrendanalytics.com | http://stackoverflow.com/users/1736015/scallan | [smc-dta](https://github.com/smc-dta) |  |  |
+| Tony Fischetti | Machine Learning, Reproducible Research, High Performance Computing | [On The Lambda](http://www.onthelambda.com)| tony.fischetti@gmail.com | - | [tonyfischetti](https://github.com/tonyfischetti) | [R-bloggers](http://www.r-bloggers.com/author/tony-fischettigmail-com/) | [@tonyfischetti](https://twitter.com/tonyfischetti) |
 
 ------------
 
