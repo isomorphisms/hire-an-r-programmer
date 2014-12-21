@@ -62,7 +62,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Antonio Sanchez Chinchon | Predictive Analytics, Modeling, Valuation, Machine Learning, Social Media, ggplot2, RCharts, Data Visualization, Time Series | [Personal Contact Page](http://aschinchon.wordpress.com/)| aschinchon@gmail.com | | [&mdash;](https://github.com/aschinchon) | [&mdash;](http://www.r-bloggers.com/author/aschinchon/) | [@aschinchon](https://twitter.com/aschinchon) |
 | Fabio Zottele | data mining and analysis, spatial statistics, data, visualization, GIS, agriculture, environment, climate | [ Something must break ] (http://somecodejustbreaks.blogspot.it]) | fabio.zottele@gmail.com | [![profile for Fabio at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3110246.png "profile for Fabio at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3110246/fabio) | [&mdash;](https://github.com/zottelef) |  |  |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
-
+| Raffael Vogler | ML, Stats | [joyofdata.de](http://www.joyofdata.de/blog) | raffael.vogler█gmail.com | [SO.com](http://stackoverflow.com/users/562440/) | [GitHub](https://github.com/joyofdata) | [R](http://www.r-bloggers.com/author/raffael-vogler/) | [@joyofdata](https://twitter.com/joyofdata) |
 
 ------------
 
