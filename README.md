@@ -67,4 +67,4 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 
 ------------
 
-If you are an `R` developer and want your details added to this list, just fork this, submit a pull request, and I'll approve as long as [a] there are no typoes and [b] you are not lying. Try to keep your self-description here short and elaborate on your own website, as recruiters are viewing a long list. tweet [@isomorphisms](http://twitter.com/isomorphisms) if I don't seem to be paying attention.
+If you are an `R` developer and want your details added to this list, just fork this, submit a pull request, and I'll approve as long as [a] there are no typoes and [b] you are not lying. Try to keep your self-description short here and elaborate on your own website, as recruiters are viewing a long list. tweet [@isomorphisms](http://twitter.com/isomorphisms) if I don't seem to be paying attention.
