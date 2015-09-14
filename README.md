@@ -63,6 +63,7 @@ If the developer's name is ~~struck through~~ then they are not currently lookin
 | Fabio Zottele | data mining and analysis, spatial statistics, data, visualization, GIS, agriculture, environment, climate | [ Something must break ] (http://somecodejustbreaks.blogspot.it]) | fabio.zottele@gmail.com | [![profile for Fabio at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3110246.png "profile for Fabio at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3110246/fabio) | [&mdash;](https://github.com/zottelef) |  |  |
 |Hans Thompson | Alaska, GIS, QC/QA, fisheries modeling, utility demand modeling, molecular biology, network analysis, custom business intelligence |  |  | [![profile for Hans at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackexchange.com/users/flair/1429111.png "profile for Hans at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/1351927/cylondude) | [&mdash;](https://github.com/hansthompson) |  |  |
 |**Name**|**Keywords**|**Web**|**Email**|**SO**|**G**|**R**|**T**|
+| Matthew Montero | Statistics, data analysis, actuary, loss development, Shiny, data visualization|   | m.mkmontero13@gmail.com|   |   |   |   |
 
 
 ------------
