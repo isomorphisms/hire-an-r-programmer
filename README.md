@@ -1,19 +1,19 @@
 # Where can I find an `R` programmer?
-<div class="hi">
+
 _Here!_
 
 We are all `R` programmers. Statisticians, coders, quants, et cetera. If you want data analysed we can help you. This is a place where you can find out how to contact us.
 
-This is just a peek at the `R` community&mdash;who's involved in what packages, what people like to work on, who constitutes the community. `R` people also hang out [here](https://twitter.com/search?q=%23Rstats), [here](http://stackoverflow.com/questions/tagged/r), [here](mailto:r-sig-jobs-request@r-project.org), and [here](http://www.google.com/search?q=stat.ethz.ch+pipermail) for example.
+This is just a peek at the `R` community&mdash;who's involved in what packages, what people like to work on, who constitutes the community. `R` people also hang out [here](//twitter.com/search?q=%23Rstats), [here](//stackoverflow.com/questions/tagged/r), [here](mailto:r-sig-jobs-request@r-project.org), and [here](//www.google.com/search?q=stat.ethz.ch+pipermail) for example.
 
 
 
 If the developer's name is ~~struck through~~ then they are not currently looking for work. Hey, at least you got to learn who's who.
-</div>
 
 
 
-| Name | About Me <br/> Affiliated Packages <br/> What I Like To Work On<br/><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Sparkline_dowjones_new.svg/500px-Sparkline_dowjones_new.svg.png" width="250" title="a sparkline. symbol of data viz, a big thing that R does."/> | Website | Email | <img src="http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png" title="StackOverflow: where programmers help each other debug" width="100"/> | <img src="http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png" title="Github: where programmers share code" width="100" /> | <img src="http://i.imgur.com/bYUPpaO.png" title="R Bloggers: where R programmers share ideas with each other" width="100" /> | <img src="https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png" title="Twitter: a worldwide chatroom" width="100" />|
+
+| Name | Expertise <br/> Affiliated Packages <br/> What I Like To Work On | Website | Email | <img src="http://cdn.sstatic.net/stackoverflow/img/apple-touch-icon.png" title="StackOverflow: where programmers help each other debug" width="100"/> | <img src="http://github.global.ssl.fastly.net/images/modules/logos_page/GitHub-Mark.png" title="Github: where programmers share code" width="100" /> | <img src="http://i.imgur.com/bYUPpaO.png" title="R Bloggers: where R programmers share ideas with each other" width="100" /> | <img src="https://abs.twimg.com/a/1380503112/images/resources/twitter-bird-blue-on-white.png" title="Twitter: a worldwide chatroom" width="100" />|
 | --- |  ------ | --- | --- | :---: | :---: | :---: | :---: |
 | Dean Attali | packages: [shinyjs](https://github.com/daattali/shinyjs), [ggExtra](https://github.com/daattali/ggExtra), [rsalad](https://github.com/daattali/rsalad) | [1](http://deanattali.com), [2](http://daattali.com/shiny) | daattali@gmail.com | [![profile for Dean Attali at Stack Overflow, Q&A for professional and enthusiast programmers](http://stackoverflow.com/users/flair/3943160.png "profile for Dean Attali at Stack Overflow, Q&A for professional and enthusiast programmers")](http://stackoverflow.com/users/3943160/dean-attali) | [&mdash;](https://github.com/daattali) |
 | Jotham Apaloo | spatial statistics, environmetrics | [1](http://jotham-city.com), [2](//ca.linkedin.com/in/jothamapaloo) | jotham.apaloo@gmail.com | 
